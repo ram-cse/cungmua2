@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\web" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/FacebookLogin.dll" publishTime="11/25/2011 12:55:07" />
+    <file relUrl="callback.aspx" publishTime="10/14/2011 07:48:28" />
+    <file relUrl="bin/FacebookLogin.pdb" publishTime="11/25/2011 12:55:06" />
+    <file relUrl="Default.aspx" publishTime="10/14/2011 07:48:28" />
+  </publishProfile>
+</publishData>
