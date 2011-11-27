@@ -1,0 +1,6 @@
+D:\ASP\ThichThiMuaSoln\ThichThiMua\bin\ThichThiMua.dll
+D:\ASP\ThichThiMuaSoln\ThichThiMua\bin\ThichThiMua.pdb
+D:\ASP\ThichThiMuaSoln\ThichThiMua\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP\ThichThiMuaSoln\ThichThiMua\obj\Debug\ThichThiMua.dll
+D:\ASP\ThichThiMuaSoln\ThichThiMua\obj\Debug\ThichThiMua.pdb
+D:\ASP\ThichThiMuaSoln\ThichThiMua\bin\MSCaptcha.xml
