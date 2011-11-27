@@ -1,0 +1,5 @@
+C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\FacebookLogin\FacebookLogin\bin\FacebookLogin.dll
+C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\FacebookLogin\FacebookLogin\bin\FacebookLogin.pdb
+C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\FacebookLogin\FacebookLogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.dll
+C:\Users\minhhoangvu\Desktop\FaceBookLogin\facebooklogin_03b67c8d1917\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.pdb
