@@ -1,0 +1,167 @@
+﻿body {
+}
+.banner
+{
+    height: auto;
+    width:auto;
+	
+	
+}
+.style5
+{
+    background-color:Aqua
+}
+.pLineDotted 
+{
+    width:180px;height:1px;margin-left:1px;margin-bottom:3px; background-color:Aqua; 
+    opacity:0.9;
+    -ms-filter:alpha(opacity=90);
+    filter: alpha(opacity=50)
+}
+
+h1, h2 {
+	color:#2E6BA8;
+	font-family:"Myriad Pro","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	font-weight:normal;
+	text-decoration:none;
+}
+body {
+	background: #F9F9F9
+}
+#demo {
+	background: #fff;
+	border: 1px #ccc solid;
+	width: 960px;
+	margin: 0 auto;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding: 10px 15px;
+	-moz-box-shadow: 0 0 6px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 0 6px rgba(0,0,0,.1);
+	position: relative;
+}
+#logo {
+	background: url(../img/sprite.png);
+	background-position:0 0;
+	height:125px;
+	margin-top: -10px;
+	text-indent:-9999px;
+	width:225px;
+}
+#logo a {
+	display: block;
+	height: 125px;
+}
+#tut-links {
+	margin: 65px auto 25px;
+	width: 400px;
+}
+#tut-links ul {
+	margin: 0;
+	padding: 0;
+}
+
+/*********** BUTTON *************/
+.cbdb-menu li {
+	display: block;
+	float: left;
+	line-height: 35px;
+	list-style:none;
+	margin: 0 5px;
+    width: 1px;
+}
+.cbdb-menu li a {
+	/* This generators the gradient on top of the solid color */
+	background-image: -moz-linear-gradient(
+		center top,
+		rgba(255,255,255,.5) 0%,
+		rgba(0,0,0,.1) 100%
+	);
+	color: #f4f4f4; /* IE */
+	color: rgba(255, 255, 255, 0.8);
+	display: block;	
+	font: bold 18px "Myriad Pro","Lucida Grande",Helvetica,Arial,sans-serif;		
+	outline:none;
+	padding: 5px 15px;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px; 
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.65);
+	-moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.65);
+	-webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.65);
+    width: 132px;
+    margin-left: 82px;
+}
+	.cbdb-menu li a:active {
+		background-image: -webkit-gradient(
+			linear,
+			left bottom,
+			left top,
+			color-stop(0,rgba(255,255,255,.5)),
+			color-stop(.1,rgba(255,255,255,.2)),
+			color-stop(.85, rgba(0,0,0,.2)),
+			color-stop(100, rgba(0,0,0,.4))
+		);
+		background-image: -moz-linear-gradient(
+			center bottom,
+			rgba(255,255,255,.5) 0%,
+			rgba(255,255,255,.2) 10%,
+			rgba(0,0,0,.2) 85%,
+			rgba(0,0,0,.4) 100%
+		);
+	}
+/* Dark Text */
+.cbdb-menu li a.dark {
+	color: #333; /* IE */
+	color: rgba(0, 0, 0, 0.8);
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
+}
+/*********** COLORS *************/
+/* Create your own class for your own colors */
+.red {
+	background: #B80202;
+	border: #B80202 1px solid
+}
+	.red:hover, .red:focus{
+		background-color:#e30606
+	}
+.green {
+	background: #46c431;
+	border: #46c431 2px solid
+}
+.left
+{
+    padding: 5px;
+    clear:inherit;
+    border: #46c431 2px solid;
+}
+.none 
+{
+    padding: 20px
+}
+	.green:hover,.green:focus {
+		background-color:#44e329
+	}
+.yellow {
+	background: #D9CE1C;
+	border: #D9CE1C 1px solid
+}
+	.yellow:hover,.yellow:focus {
+		background-color:#eee117
+	}
+.cyan {
+	background: #23c6de;
+	border: #23c6de 1px solid
+}
+	.cyan:hover,.cyan:focus {
+		background-color:#18d8f4
+	}
+.blue {
+	background: #3271d9;
+	border: #3271d9 1px solid
+}
+	.blue:hover,.blue:focus {
+		background-color:#377ef2
+	}
